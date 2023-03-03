@@ -1,0 +1,2 @@
+id,name,type,description
+1,gender,str,гендер респондента (м - мужской, ж - женский)
